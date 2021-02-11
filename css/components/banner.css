@@ -1,0 +1,32 @@
+.banner {
+  height: 47vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  background-image: url("../../images/macbook-dark.jpg");
+  background-position: right;
+  
+}
+
+
+.banner-info {
+  width: 700px;
+  margin: auto;
+}
+
+
+
+.banner-info>h1 {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  line-height: 0;
+  padding-bottom: 21px;
+}
+
+.banner-info>p {
+  padding-bottom: 21px;
+  color: rgb(199 199 199);
+  font-size: 15px;
+  font-weight: 100;
+  line-height: 0;
+}

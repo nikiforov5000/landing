@@ -1,0 +1,28 @@
+.footer {
+  height: 20vh;
+  background-color: #13191c;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+}
+
+.footer-buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-buttons>a {
+  margin: 13px 12px;
+  color: #41556e;
+  font-size: 20px;
+}
+
+.footer>p {
+  color: #41556e;
+  font-size: 12px;
+}
+
+
